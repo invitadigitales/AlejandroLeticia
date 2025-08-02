@@ -106,6 +106,9 @@
 .v_align_top{
     vertical-align: top;
 }
+.v_align_bottom{
+    vertical-align: bottom;
+}
 .v_align_middle{
     vertical-align: middle;
 }
